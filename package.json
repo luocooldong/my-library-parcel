@@ -11,7 +11,7 @@
     "build": "parcel build"
   },
   "keywords": [],
-  "author": "gengyudongzzu",
+  "author": "npmtest",
   "license": "ISC",
   "devDependencies": {
     "@parcel/packager-ts": "^2.0.1",
